@@ -1,0 +1,12 @@
+com.example.testgit.app-constraint-layout-2.0.4-0 /Users/juliahosch/.gradle/caches/transforms-3/6d86efdff2fb8114b8a15e1569cd3ad0/transformed/constraint-layout-2.0.4/res
+com.example.testgit.app-appcompat-v7-28.0.0-1 /Users/juliahosch/.gradle/caches/transforms-3/9cc405a4cb35f2bd27ebc7fcf11abc6f/transformed/appcompat-v7-28.0.0/res
+com.example.testgit.app-support-compat-28.0.0-2 /Users/juliahosch/.gradle/caches/transforms-3/9e531ed48fff4ec0bab341ce146590e4/transformed/support-compat-28.0.0/res
+com.example.testgit.app-coordinatorlayout-28.0.0-3 /Users/juliahosch/.gradle/caches/transforms-3/da1eac50d77be7ad2dc48d42076c1160/transformed/coordinatorlayout-28.0.0/res
+com.example.testgit.app-pngs-4 /Users/juliahosch/AndroidStudioProjects/TestGit/app/build/generated/res/pngs/debug
+com.example.testgit.app-resValues-5 /Users/juliahosch/AndroidStudioProjects/TestGit/app/build/generated/res/resValues/debug
+com.example.testgit.app-rs-6 /Users/juliahosch/AndroidStudioProjects/TestGit/app/build/generated/res/rs/debug
+com.example.testgit.app-packageDebugResources-7 /Users/juliahosch/AndroidStudioProjects/TestGit/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.testgit.app-packageDebugResources-8 /Users/juliahosch/AndroidStudioProjects/TestGit/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.testgit.app-merged_res-9 /Users/juliahosch/AndroidStudioProjects/TestGit/app/build/intermediates/merged_res/debug
+com.example.testgit.app-debug-10 /Users/juliahosch/AndroidStudioProjects/TestGit/app/src/debug/res
+com.example.testgit.app-main-11 /Users/juliahosch/AndroidStudioProjects/TestGit/app/src/main/res
